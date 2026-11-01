@@ -1,0 +1,9 @@
+Name,Age,Department,Salary,City
+Arun,22.0,IT,25000.0,Chennai
+Priya,25.0,HR,30000.0,Mumbai
+Kumar,30.0,Sales,40000.0,Delhi
+arun,22.0,it,25000.0,chennai
+Divya,,Finance,35000.0,Pune
+,28.0,IT,,Chennai
+Rahul,-5.0,Sales,20000.0,
+Priya,25.0,HR,30000.0,Mumbai
